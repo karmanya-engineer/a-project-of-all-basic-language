@@ -1,0 +1,11 @@
+{
+  "name": "advanced-web-app",
+  "version": "1.0.0",
+  "description": "Advanced HTML, CSS, and JavaScript project",
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

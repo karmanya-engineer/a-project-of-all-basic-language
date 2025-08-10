@@ -1,0 +1,1 @@
+export function initThemeSwitcher() { console.log('Theme switcher initialized'); }
